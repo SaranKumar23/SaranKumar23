@@ -7,10 +7,11 @@
 <a href="https://twitter.com/SaranKumar23">
   <img align="left" alt="Saran Kumar C  | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
--->
+
 <a href="https://www.linkedin.com/in/saran-kumar-c/">
   <img align="left" alt="Saran Kumar C  LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+-->
 
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FSaranKumar23%2FSaranKumar23&labelColor=%23697689&countColor=%23ba68c8&style=plastic&labelStyle=upper)
